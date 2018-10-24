@@ -1,0 +1,1 @@
+java -jar C:\Users\in18vosa\Desktop\StraightPool\straightpool.jar
