@@ -6,4 +6,4 @@ Published under GNU v3 Public License, any changes to source code MUST be releas
 
 
 UPDATE:
-Somehow all the annoying bugs that made me quit the project a while ago are fixed / not present anymore not. The code hasn't changed. Not sure what I should think of it but there ya go:D
+Somehow all the annoying bugs that made me quit the project a while ago are fixed / not present anymore. The code hasn't changed. Not sure what I should think of it but there ya go:D
